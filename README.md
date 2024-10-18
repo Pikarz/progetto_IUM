@@ -1,7 +1,7 @@
 # AlimentIUM: Applicazione per la Gestione di Ricette e Lista della Spesa
 **Introduzione**
 
-AlimentIUM è un'applicazione sviluppata come parte di un progetto universitario per il corso di Interazione Uomo-Macchina. Il tema chiave del progetto riguarda i servizi legati al cibo e all'alimentazione, con l'obiettivo di creare uno strumento utile per la gestione degli ingredienti e delle ricette.
+AlimentIUM è un'applicazione sviluppata come parte di un progetto universitario dell'A.A. 22/23 per il corso di Interazione Uomo-Macchina. Il tema chiave del progetto riguarda i servizi legati al cibo e all'alimentazione, con l'obiettivo di creare uno strumento utile per la gestione degli ingredienti e delle ricette.
 
 **Idee di Base**
 
