@@ -13,6 +13,8 @@ Durante le fasi di progettazione, AlimentIUM si è evoluto in un servizio che in
     Un ricettario con funzionalità avanzate per suggerire ricette basate sugli ingredienti disponibili.
     Una lista della spesa condivisa tra più utenti, rendendo la gestione della spesa più collaborativa e dinamica.
 
+[**Link al Prototipo**](https://marvelapp.com/prototype/e9287c8)
+
 **Riconoscimenti**
 
 Il progetto è stato realizzato come lavoro di gruppo per il corso di Interazione Uomo-Macchina e ha ricevuto il massimo dei voti, grazie alla qualità del design e all'attenzione posta alle esigenze degli utenti.
